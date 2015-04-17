@@ -1,14 +1,6 @@
 ﻿using System.Collections.Generic;
-using Saga.SqlClientDal.PhotoAlbums;
-using Saga.SqlClientDal.Audio;
-using Saga.SqlClientDal.Errors;
-using Saga.SqlClientDal.Images;
-using Saga.SqlClientDal.Musical;
-using Saga.SqlClientDal.Parts;
-using Saga.SqlClientDal.Tags;
-using Saga.SqlClientDal.Users;
-using Saga.SqlClientDal.Models;
 using Saga.BusinessLayer;
+using Saga.Dal;
 using Saga.Specification.Interfaces;
 using Saga.Specification.Interfaces.Artists;
 using Saga.Specification.Interfaces.Audio;
